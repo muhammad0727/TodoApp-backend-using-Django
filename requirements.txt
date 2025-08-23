@@ -1,1 +1,15 @@
-
+asgiref==3.9.1
+Django==5.2.4
+django-stubs==5.2.2
+django-stubs-ext==5.2.2
+djangorestframework==3.16.0
+sqlparse==0.5.3
+types-PyYAML==6.0.12.20250516
+typing_extensions==4.14.1
+tzdata==2025.2
+gunicorn
+psycopg2-binary
+whitenoise
+python-dotenv
+dj-database-url
+django-cors-headers
