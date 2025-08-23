@@ -11,3 +11,5 @@ gunicorn
 psycopg2-binary
 whitenoise
 python-dotenv
+dj-database-url
+django-cors-headers
